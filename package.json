@@ -1,0 +1,23 @@
+{
+  "name": "package-math",
+  "version": "0.0.0",
+  "description": "My math package",
+  "keywords": [
+    "math"
+  ],
+  "homepage": "https://github.com/luksinocencio/package-math#readme",
+  "bugs": {
+    "url": "https://github.com/luksinocencio/package-math/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luksinocencio/package-math.git"
+  },
+  "license": "MIT",
+  "author": "Lucas Inocencio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "type": "module"
+}
